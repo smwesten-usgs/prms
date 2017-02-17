@@ -1,5 +1,5 @@
 # prms
-Unofficial fork of the USGS Precipitation Runoff Simulation Model (PRMS)
+Unofficial fork of the USGS Precipitation Runoff Simulation Model (PRMS). The official USGS webpage for this code is https://wwwbrr.cr.usgs.gov/projects/SW_MoWS/PRMS.html
 
 Disclaimer
 ----------
